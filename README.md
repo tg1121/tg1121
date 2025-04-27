@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Tushti Goyal
 
 Welcome to my GitHub profile! I'm a data science enthusiast with a passion for machine learning and Mathematics. I’m currently pursuing a Master’s degree in Advanced and Computational Mathematics with a specialization in Data Science at TU Chemnitz, Germany, and I’m always eager to work on new and exciting projects.
 
@@ -21,8 +21,8 @@ I’m driven by a passion to explore and learn in the fields of linear algebra, 
 ## 📚 Projects
 Here are a few projects I've been working on:
 
-- **[Kaggle Malware Prediction](https://www.kaggle.com/competitions/system-threat-forecaster)**: A project where I built a machine learning model to predict system infections using various properties of the system based on telemetry data collected by antivirus software.
-- **[App-dev]()**: A project in which I built a rudimentary Web application using FLask.
+- **[Kaggle Malware Prediction](https://www.kaggle.com/competitions/system-threat-forecaster)**: A project(https://github.com/tg1121/Machine-Learning) where I built a machine learning model to predict system infections using various properties of the system based on telemetry data collected by antivirus software.
+- **[App-dev](https://github.com/tg1121/App-dev-Project-1)**: A project in which I built a rudimentary Web application using FLask.
 
 ## 💬 How to Reach Me
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/tushti-goyal)
